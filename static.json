@@ -1,8 +1,8 @@
 {
 "headers":{
 "/*": {
-"X-Author":"r_nigmatov"}
-  {"Access-Control-Allow-Origin":"*"
+"X-Author":"r_nigmatov",
+  "Access-Control-Allow-Origin":"*"
 }
 }
 
