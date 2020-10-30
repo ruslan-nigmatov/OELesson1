@@ -2,6 +2,7 @@
 "headers":{
 "/*": {
 "X-Author":"r_nigmatov"
+  "Access-Control-Allow-Origin":"*"
 }
 }
 
